@@ -1,0 +1,16 @@
+version: '3.4'
+
+# we comment catalog.api for now, because we will run it locally, we only want to use postgres backing service 
+# so we will make a container for postgres
+services:
+  # catalog.api:
+  #   image: ${DOCKER_REGISTRY-}catalogapi
+  #   build:
+  #     context: .
+  #     dockerfile: Service/Catalog/Catalog.API/Dockerfile
+  catalogdb: 
+    image: postgres
+
+volumes: 
+  postgres_catalog: 
+
