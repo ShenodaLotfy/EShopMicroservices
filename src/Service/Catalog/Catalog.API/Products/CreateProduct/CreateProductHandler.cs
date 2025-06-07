@@ -12,7 +12,9 @@ namespace Catalog.API.Products.CreateProduct
     {
         public CreateProductCommandValidator()
         {
-            RuleFor(x => x.Name).NotEmpty().WithMessage("Name is required");
+            RuleFor(x => x.Name).NotEmpty().WithMessage("Name is required")
+                .Length(2, 150).WithMessage("Name length must be between 2 and 150 characters");
+
             RuleFor(x => x.Category).NotEmpty().WithMessage("Category is required");
             RuleFor(x => x.ImageFile).NotEmpty().WithMessage("Image file is required");
             RuleFor(x => x.Price).GreaterThan(0).WithMessage("Price should be greater that 0");
