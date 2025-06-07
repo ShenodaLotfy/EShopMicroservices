@@ -15,19 +15,16 @@ namespace Catalog.API.Products.CreateProduct
             RuleFor(x => x.Name).NotEmpty().WithMessage("Name is required");
             RuleFor(x => x.Category).NotEmpty().WithMessage("Category is required");
             RuleFor(x => x.ImageFile).NotEmpty().WithMessage("Image file is required");
-            RuleFor(x => x.Price).NotEmpty().WithMessage("Price should be greater that 0");
+            RuleFor(x => x.Price).GreaterThan(0).WithMessage("Price should be greater that 0");
         }
     }
 
-    internal class CreateProductHandler(IDocumentSession session, IValidator<CreateProductCommand> validator) : 
+    internal class CreateProductCommandHandler(IDocumentSession session, ILogger<CreateProductCommandHandler> logger) : 
         ICommandHandler<CreateProductCommand, CreateProductResult>
     {
         public async Task<CreateProductResult> Handle(CreateProductCommand command, CancellationToken cancellationToken)
         {
-            var validationResult = await validator.ValidateAsync(command, cancellationToken);
-            var errors = validationResult.Errors.Select(x => x.ErrorMessage).ToList();
-            if (errors.Any())
-                throw new ValidationException(string.Join(",", errors));
+            logger.LogInformation("CreateProductCommandHandler.Handler is called with command {@Command}", command);
 
             var product = new Product
             {
