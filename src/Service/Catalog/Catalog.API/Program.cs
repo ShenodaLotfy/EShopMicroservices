@@ -1,4 +1,5 @@
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // ------------------ Add services to the DI container ------------------------
@@ -17,9 +18,10 @@ builder.Services.AddValidatorsFromAssembly(assembly);
 
 builder.Services.AddCarter();
 
+string connectionString = builder.Configuration.GetConnectionString("Database")!;
 builder.Services.AddMarten(options =>
 {
-    options.Connection(builder.Configuration.GetConnectionString("Database")!);
+    options.Connection(connectionString);
 }).UseLightweightSessions(); // using light weight session for read/write operations
 
 // seeding data with Marten library
@@ -27,6 +29,9 @@ if (builder.Environment.IsDevelopment())
     builder.Services.InitializeMartenWith<CatalogInitialData>();
 
 builder.Services.AddExceptionHandler<CustomExceptionHandler>();
+
+builder.Services.AddHealthChecks()
+    .AddNpgSql(connectionString);
 
 //  ------------------ App Created -------------------------------------------
 var app = builder.Build();
@@ -60,5 +65,10 @@ app.MapCarter();
 //});
 
 app.UseExceptionHandler(options => { }); // empty options with CustomExceptionHandler
+
+app.UseHealthChecks("/health", new HealthCheckOptions
+{
+    ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse
+});
 
 app.Run();
