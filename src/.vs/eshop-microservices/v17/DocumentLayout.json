@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:service\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\catalog\\catalog.api\\data\\cataloginitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:service\\catalog\\catalog.api\\data\\cataloginitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\catalog\\catalog.api\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:service\\catalog\\catalog.api\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\catalog\\catalog.api\\products\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:service\\catalog\\catalog.api\\products\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\catalog\\catalog.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:service\\catalog\\catalog.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:service\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\catalog\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:service\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\catalog\\catalog.api\\products\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:service\\catalog\\catalog.api\\products\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\catalog\\catalog.api\\products\\updateproduct\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{D1F6C5AA-BC00-44D6-8457-09F8B5C8A8E9}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\catalog\\catalog.api\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F6BBD49-0032-4579-88EA-C947E75C8E0D}|Service\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:service\\catalog\\catalog.api\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1F6C5AA-BC00-44D6-8457-09F8B5C8A8E9}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\buildingblocks\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1F6C5AA-BC00-44D6-8457-09F8B5C8A8E9}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -168,7 +168,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -207,14 +207,18 @@
               "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CatalogInitialData.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Data\\CatalogInitialData.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Data\\CatalogInitialData.cs",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Data\\CatalogInitialData.cs",
-              "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Data\\CatalogInitialData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Data\\CatalogInitialData.cs*",
+              "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Data\\CatalogInitialData.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T01:38:38.648Z",
               "EditorCaption": ""
@@ -222,32 +226,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "GetProductByCategoryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
-              "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
-              "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T10:30:52.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DeleteProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
-              "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
-              "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T03:10:36.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "CreateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
@@ -260,20 +238,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Program.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Program.cs",
               "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Program.cs",
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T03:12:57.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ValidationBehavior.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
@@ -286,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "LoggingBehavior.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
@@ -299,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Models\\Product.cs",
@@ -312,20 +290,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\GlobalUsing.cs",
               "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\GlobalUsing.cs",
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\GlobalUsing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T04:28:06.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetProductsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
+              "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
+              "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:00:40.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetProductsEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:00:23.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "DeleteProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T03:10:36.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetProductByCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:30:52.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "GetProductByIdHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
@@ -338,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CustomExceptionHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
@@ -351,20 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetProductsHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
-              "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
-              "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T09:00:40.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "UpdateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
@@ -377,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GetProductByCategoryEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
@@ -390,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "docker-compose.dcproj",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\docker-compose.dcproj",
               "RelativeDocumentMoniker": "docker-compose.dcproj",
@@ -403,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "BuildingBlocks.csproj",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
@@ -416,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ProductNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
@@ -429,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "InternalServerException.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
@@ -441,12 +458,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "BadRequestException.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
@@ -459,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
@@ -472,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "UpdateProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
@@ -485,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "CreateProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
@@ -498,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "DeleteProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
@@ -511,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Catalog.API.csproj",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Catalog.API.csproj",
@@ -524,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "docker-compose.override.yml",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\docker-compose.override.yml",
               "RelativeDocumentMoniker": "docker-compose.override.yml",
@@ -537,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -550,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
@@ -563,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "GetProductByIdEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
@@ -572,19 +585,6 @@
               "ViewState": "AQIAAAMAAAAAAAAAAABQwA0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T09:52:41.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "GetProductsEndpoint.cs",
-              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
-              "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
-              "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T09:00:23.212Z",
               "EditorCaption": ""
             },
             {
