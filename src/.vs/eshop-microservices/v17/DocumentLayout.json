@@ -236,7 +236,8 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Dockerfile",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-30T03:25:56.118Z"
+              "WhenOpened": "2025-05-30T03:25:56.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -248,7 +249,8 @@
               "RelativeToolTip": "docker-compose.override.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-06-05T08:14:25.585Z"
+              "WhenOpened": "2025-06-05T08:14:25.585Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -260,7 +262,8 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-06-05T08:11:15.328Z"
+              "WhenOpened": "2025-06-05T08:11:15.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
