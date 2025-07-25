@@ -13,6 +13,9 @@ services:
   
   basketdb: 
     image: postgres
+  
+  distibutedcache:
+    image: redis
 
   catalog.api:
     image: ${DOCKER_REGISTRY-}catalogapi

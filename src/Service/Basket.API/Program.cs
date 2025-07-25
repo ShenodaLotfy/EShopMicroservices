@@ -40,4 +40,6 @@ var app = builder.Build();
 
 app.MapCarter();
 
+app.UseExceptionHandler(options => { });
+
 app.Run();
