@@ -1,4 +1,5 @@
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 var assembly = typeof(Program).Assembly;
@@ -17,6 +18,23 @@ builder.Services.AddMarten(options =>
 }).UseLightweightSessions();
 
 builder.Services.AddScoped<IBasketRepository, BasketRepository>();
+builder.Services.Decorate<IBasketRepository, CachedBasketRepository>();
+
+// Code below will do the same as Scrutor library service register 
+// so instead we used Scrutor package above ^^^^ ::: builder.Services.Decorate<IBasketRepository, CachedBasketRepository>(); 
+//builder.Services.AddScoped<IBasketRepository>(provider =>
+//{
+//    var basketRepositoryService = provider.GetRequiredService<BasketRepository>();
+//    var distributedCacheService = provider.GetRequiredService<IDistributedCache>();
+//    return new CachedBasketRepository(basketRepositoryService, distributedCacheService);
+//});
+
+builder.Services.AddStackExchangeRedisCache(options =>
+{
+    options.Configuration = builder.Configuration.GetConnectionString("Redis");
+});
+
+builder.Services.AddExceptionHandler<CustomExceptionHandler>();
 
 var app = builder.Build();
 
