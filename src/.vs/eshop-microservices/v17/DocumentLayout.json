@@ -240,7 +240,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -275,6 +275,10 @@
               "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "libman.json",
@@ -284,8 +288,7 @@
               "RelativeToolTip": "Service\\Basket.API\\libman.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-18T02:07:33.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T02:07:33.678Z"
             },
             {
               "$type": "Document",
@@ -297,8 +300,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Program.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAgwDQAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T00:51:58.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T00:51:58.623Z"
             },
             {
               "$type": "Document",
@@ -336,8 +338,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoints.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAA1wA0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T02:09:15.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T02:09:15.985Z"
             },
             {
               "$type": "Document",
@@ -349,8 +350,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Data\\CachedBasketRepository.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAASwAsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T08:33:56.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T08:33:56.417Z"
             },
             {
               "$type": "Document",
@@ -362,16 +362,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Basket\\GetBasket\\GetBasketHandler.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwAsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T02:09:23.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+              "WhenOpened": "2025-07-18T02:09:23.945Z"
             },
             {
               "$type": "Document",
@@ -383,8 +374,7 @@
               "RelativeToolTip": "Service\\Basket.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-25T04:33:15.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T04:33:15.218Z"
             },
             {
               "$type": "Document",
@@ -396,8 +386,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T02:09:35.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T02:09:35.035Z"
             },
             {
               "$type": "Document",
@@ -409,8 +398,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Data\\BasketRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:22:27.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T04:22:27.945Z"
             },
             {
               "$type": "Document",
@@ -422,8 +410,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Data\\IBasketRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:22:16.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T04:22:16.329Z"
             },
             {
               "$type": "Document",
@@ -448,8 +435,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-30T03:18:22.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T03:18:22.675Z"
             },
             {
               "$type": "Document",
@@ -461,8 +447,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-18T00:52:10.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T00:52:10.154Z"
             },
             {
               "$type": "Document",
@@ -474,8 +459,7 @@
               "RelativeToolTip": "Service\\Basket.API\\GlobalUsing.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T02:07:51.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T02:07:51.386Z"
             },
             {
               "$type": "Document",
@@ -487,8 +471,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoints.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAIAxwA4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T02:08:57.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T02:08:57.965Z"
             },
             {
               "$type": "Document",
@@ -500,8 +483,7 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAApwBQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T00:47:45.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T00:47:45.189Z"
             },
             {
               "$type": "Document",
@@ -526,8 +508,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAASwBIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T02:09:07.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T02:09:07.465Z"
             },
             {
               "$type": "Document",
@@ -539,8 +520,7 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAApwB8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T05:11:50.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T05:11:50.659Z"
             },
             {
               "$type": "Document",
@@ -552,8 +532,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T02:09:43.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T02:09:43.049Z"
             },
             {
               "$type": "Document",
@@ -565,8 +544,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
               "ViewState": "AQIAAJYBAAAAAAAAAAAIwKgBAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-06-05T08:26:22.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T08:26:22.256Z"
             },
             {
               "$type": "Document",
@@ -578,8 +556,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-05T08:04:51.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T08:04:51.496Z"
             },
             {
               "$type": "Document",
@@ -604,8 +581,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:27:30.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T04:27:30.312Z"
             },
             {
               "$type": "Document",
@@ -617,8 +593,7 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T21:41:48.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T21:41:48.066Z"
             },
             {
               "$type": "Document",
@@ -630,8 +605,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Models\\ShoppingCartItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T01:46:26.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T01:46:26.298Z"
             },
             {
               "$type": "Document",
@@ -643,8 +617,7 @@
               "RelativeToolTip": "Service\\Basket.API\\Models\\ShoppingCart.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T01:46:16.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T01:46:16.297Z"
             },
             {
               "$type": "Document",
@@ -656,8 +629,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAUwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T03:08:19.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T03:08:19.988Z"
             },
             {
               "$type": "Document",
@@ -669,8 +641,7 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T03:30:31.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T03:30:31.066Z"
             },
             {
               "$type": "Document",
@@ -682,8 +653,7 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T03:40:16.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T03:40:16.188Z"
             },
             {
               "$type": "Document",
@@ -695,8 +665,7 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T03:45:34.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T03:45:34.087Z"
             },
             {
               "$type": "Document",
@@ -708,8 +677,7 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T03:30:44.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T03:30:44.554Z"
             },
             {
               "$type": "Document",
@@ -721,8 +689,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T02:51:23.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T02:51:23.836Z"
             },
             {
               "$type": "Document",
@@ -734,8 +701,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T03:10:36.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T03:10:36.024Z"
             },
             {
               "$type": "Document",
@@ -747,8 +713,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T03:08:28.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T03:08:28.419Z"
             },
             {
               "$type": "Document",
@@ -760,8 +725,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Dockerfile",
               "ViewState": "AQIAAAEAAAAAAAAAAEBVwAYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-30T03:25:56.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T03:25:56.118Z"
             },
             {
               "$type": "Document",
@@ -773,8 +737,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Dockerfile.original",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T08:40:27.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T08:40:27.682Z"
             },
             {
               "$type": "Document",
@@ -786,8 +749,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Data\\CatalogInitialData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T01:38:38.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T01:38:38.648Z"
             },
             {
               "$type": "Document",
@@ -799,8 +761,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T05:13:03.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T05:13:03.297Z"
             },
             {
               "$type": "Document",
@@ -812,8 +773,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Program.cs",
               "ViewState": "AQIAADAAAAAAAAAAAIBZwA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T03:12:57.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T03:12:57.485Z"
             },
             {
               "$type": "Document",
@@ -825,8 +785,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\GlobalUsing.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T04:28:06.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T04:28:06.375Z"
             },
             {
               "$type": "Document",
@@ -838,8 +797,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T09:00:40.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T09:00:40.121Z"
             },
             {
               "$type": "Document",
@@ -851,8 +809,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T09:00:23.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T09:00:23.212Z"
             },
             {
               "$type": "Document",
@@ -864,8 +821,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAiwAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T10:30:52.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T10:30:52.693Z"
             },
             {
               "$type": "Document",
@@ -877,8 +833,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T09:52:54.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T09:52:54.875Z"
             },
             {
               "$type": "Document",
@@ -890,8 +845,7 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwBAAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T21:52:47.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T21:52:47.372Z"
             },
             {
               "$type": "Document",
@@ -903,8 +857,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T10:30:40.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T10:30:40.266Z"
             },
             {
               "$type": "Document",
@@ -929,8 +882,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T10:13:58.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T10:13:58.359Z"
             },
             {
               "$type": "Document",
@@ -942,8 +894,7 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T21:44:31.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T21:44:31.935Z"
             },
             {
               "$type": "Document",
@@ -955,8 +906,7 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T21:46:27.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T21:46:27.723Z"
             },
             {
               "$type": "Document",
@@ -968,8 +918,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T02:51:03.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T02:51:03.523Z"
             },
             {
               "$type": "Document",
@@ -981,8 +930,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T03:10:46.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T03:10:46.841Z"
             },
             {
               "$type": "Document",
@@ -994,8 +942,7 @@
               "RelativeToolTip": "Service\\Catalog\\Catalog.API\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-05T08:04:49.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T08:04:49.851Z"
             },
             {
               "$type": "Document",
