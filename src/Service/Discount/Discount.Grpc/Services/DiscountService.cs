@@ -1,0 +1,29 @@
+﻿using Grpc.Core;
+
+namespace Discount.Grpc.Services
+{
+    // DiscountProtoService.DiscountProtoServiceBase is regenrated by visual studio when building the application  
+    // after specifying Protobuf compiler in the properties of proto file
+    public class DiscountService : DiscountProtoService.DiscountProtoServiceBase
+    {
+        public override Task<CouponModel> GetDiscount(GetDiscountRequest request, ServerCallContext context)
+        {
+            return base.GetDiscount(request, context);
+        }
+
+        public override Task<CouponModel> CreateDiscount(CreateDiscountRequest request, ServerCallContext context)
+        {
+            return base.CreateDiscount(request, context);
+        }
+
+        public override Task<CouponModel> UpdateDiscount(UpdateDiscountRequest request, ServerCallContext context)
+        {
+            return base.UpdateDiscount(request, context);
+        }
+
+        public override Task<DeleteDiscountResponse> DeleteDiscount(DeleteDiscountRequest request, ServerCallContext context)
+        {
+            return base.DeleteDiscount(request, context);
+        }
+    }
+}
