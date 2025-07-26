@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|solutionrelative:service\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|solutionrelative:service\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\basket.api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|solutionrelative:service\\basket.api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1C16A5E3-7348-466D-A43D-183F44BF44A0}|docker-compose.dcproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1C16A5E3-7348-466D-A43D-183F44BF44A0}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\basket.api\\basket\\getbasket\\getbaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +17,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\basket.api\\basket\\getbasket\\getbasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|solutionrelative:service\\basket.api\\basket\\getbasket\\getbasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16A5E3-7348-466D-A43D-183F44BF44A0}|docker-compose.dcproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C16A5E3-7348-466D-A43D-183F44BF44A0}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|solutionrelative:service\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\basket.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|solutionrelative:service\\basket.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|solutionrelative:service\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\basket.api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|solutionrelative:service\\basket.api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\basket.api\\basket\\storebasket\\storebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\basket.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|solutionrelative:service\\basket.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C16A5E3-7348-466D-A43D-183F44BF44A0}|docker-compose.dcproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1C16A5E3-7348-466D-A43D-183F44BF44A0}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C16A5E3-7348-466D-A43D-183F44BF44A0}|docker-compose.dcproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1C16A5E3-7348-466D-A43D-183F44BF44A0}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CD83623-788E-47A8-8858-5D58E40F514A}|Service\\Basket.API\\Basket.API.csproj|c:\\users\\shenodalotfy\\source\\repos\\eshopmicroservices\\src\\service\\basket.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -236,7 +240,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -264,10 +268,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
             },
             {
@@ -276,72 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CachedBasketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Data\\CachedBasketRepository.cs",
-              "RelativeDocumentMoniker": "Service\\Basket.API\\Data\\CachedBasketRepository.cs",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Data\\CachedBasketRepository.cs",
-              "RelativeToolTip": "Service\\Basket.API\\Data\\CachedBasketRepository.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAASwAwAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T08:33:56.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IBasketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Data\\IBasketRepository.cs",
-              "RelativeDocumentMoniker": "Service\\Basket.API\\Data\\IBasketRepository.cs",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Data\\IBasketRepository.cs",
-              "RelativeToolTip": "Service\\Basket.API\\Data\\IBasketRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:22:16.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BasketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Data\\BasketRepository.cs",
-              "RelativeDocumentMoniker": "Service\\Basket.API\\Data\\BasketRepository.cs",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Data\\BasketRepository.cs",
-              "RelativeToolTip": "Service\\Basket.API\\Data\\BasketRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:22:27.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StoreBasketEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
-              "RelativeDocumentMoniker": "Service\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
-              "RelativeToolTip": "Service\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T02:09:35.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Service\\Basket.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\appsettings.json",
-              "RelativeToolTip": "Service\\Basket.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-25T04:33:15.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "libman.json",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\libman.json",
               "RelativeDocumentMoniker": "Service\\Basket.API\\libman.json",
@@ -354,20 +289,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Program.cs",
               "RelativeDocumentMoniker": "Service\\Basket.API\\Program.cs",
               "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Program.cs",
               "RelativeToolTip": "Service\\Basket.API\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADQAAABAAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDQAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T00:51:58.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-05T08:14:25.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-05T08:07:54.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GetBasketEndpoints.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoints.cs",
               "RelativeDocumentMoniker": "Service\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoints.cs",
@@ -380,33 +341,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-30T03:18:22.675Z",
+              "DocumentIndex": 2,
+              "Title": "CachedBasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Data\\CachedBasketRepository.cs",
+              "RelativeDocumentMoniker": "Service\\Basket.API\\Data\\CachedBasketRepository.cs",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Data\\CachedBasketRepository.cs",
+              "RelativeToolTip": "Service\\Basket.API\\Data\\CachedBasketRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:33:56.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Service\\Basket.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Service\\Basket.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-18T00:52:10.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "GetBasketHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Basket\\GetBasket\\GetBasketHandler.cs",
               "RelativeDocumentMoniker": "Service\\Basket.API\\Basket\\GetBasket\\GetBasketHandler.cs",
@@ -422,34 +370,103 @@
               "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "docker-compose.dcproj",
-              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\docker-compose.dcproj",
-              "RelativeDocumentMoniker": "docker-compose.dcproj",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\docker-compose.dcproj",
-              "RelativeToolTip": "docker-compose.dcproj",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-05T08:07:54.195Z",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Service\\Basket.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\appsettings.json",
+              "RelativeToolTip": "Service\\Basket.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T04:33:15.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoreBasketEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "RelativeDocumentMoniker": "Service\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "RelativeToolTip": "Service\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:09:35.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Data\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Service\\Basket.API\\Data\\BasketRepository.cs",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Data\\BasketRepository.cs",
+              "RelativeToolTip": "Service\\Basket.API\\Data\\BasketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:22:27.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-06-05T08:14:25.585Z",
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Data\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "Service\\Basket.API\\Data\\IBasketRepository.cs",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Data\\IBasketRepository.cs",
+              "RelativeToolTip": "Service\\Basket.API\\Data\\IBasketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:22:16.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Service\\Basket.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Dockerfile",
+              "RelativeToolTip": "Service\\Basket.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T10:11:28.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Service\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T03:18:22.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Service\\Basket.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Service\\Basket.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T00:52:10.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "Service\\Basket.API\\GlobalUsing.cs",
@@ -462,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "DeleteBasketEndpoints.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoints.cs",
               "RelativeDocumentMoniker": "Service\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoints.cs",
@@ -475,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "LoggingBehavior.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
@@ -488,20 +505,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Basket.API.csproj",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Basket.API.csproj",
               "RelativeDocumentMoniker": "Service\\Basket.API\\Basket.API.csproj",
-              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Basket.API.csproj*",
-              "RelativeToolTip": "Service\\Basket.API\\Basket.API.csproj*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ToolTip": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Basket.API.csproj",
+              "RelativeToolTip": "Service\\Basket.API\\Basket.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-18T02:07:20.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "DeleteBasketHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
               "RelativeDocumentMoniker": "Service\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
@@ -514,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ValidationBehavior.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
@@ -527,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "StoreBasketHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
               "RelativeDocumentMoniker": "Service\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
@@ -540,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
@@ -553,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\appsettings.json",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\appsettings.json",
@@ -566,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Catalog.API.csproj",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Catalog.API.csproj",
@@ -579,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "BasketNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
               "RelativeDocumentMoniker": "Service\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
@@ -592,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
@@ -605,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ShoppingCartItem.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Models\\ShoppingCartItem.cs",
               "RelativeDocumentMoniker": "Service\\Basket.API\\Models\\ShoppingCartItem.cs",
@@ -618,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Basket.API\\Models\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "Service\\Basket.API\\Models\\ShoppingCart.cs",
@@ -631,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "CreateProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
@@ -644,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
@@ -657,7 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
@@ -670,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
@@ -683,7 +700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
@@ -696,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "UpdateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
@@ -709,7 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "DeleteProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
@@ -722,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "CreateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
@@ -735,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Dockerfile",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Dockerfile",
@@ -748,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Dockerfile.original",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Dockerfile.original",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Dockerfile.original",
@@ -761,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "CatalogInitialData.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Data\\CatalogInitialData.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Data\\CatalogInitialData.cs",
@@ -774,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Models\\Product.cs",
@@ -787,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Program.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Program.cs",
@@ -800,7 +817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\GlobalUsing.cs",
@@ -813,7 +830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "GetProductsHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
@@ -826,7 +843,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "GetProductsEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
@@ -839,7 +856,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "GetProductByCategoryHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
@@ -852,7 +869,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "GetProductByIdHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
@@ -865,7 +882,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "CustomExceptionHandler.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
@@ -878,7 +895,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "GetProductByCategoryEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
@@ -891,7 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "BuildingBlocks.csproj",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
@@ -904,7 +921,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "ProductNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
@@ -917,7 +934,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "InternalServerException.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
@@ -930,7 +947,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "BadRequestException.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
@@ -943,7 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "UpdateProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
@@ -956,7 +973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "DeleteProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
@@ -969,7 +986,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\appsettings.Development.json",
@@ -982,7 +999,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\launchSettings.json",
               "RelativeDocumentMoniker": "launchSettings.json",
@@ -995,7 +1012,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.410\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.410\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
@@ -1006,7 +1023,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "Catalog.API",
               "DocumentMoniker": "C:\\Users\\ShenodaLotfy\\source\\repos\\EShopMicroservices\\src\\Service\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "RelativeDocumentMoniker": "Service\\Catalog\\Catalog.API\\Catalog.API.csproj",
